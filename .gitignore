@@ -1,0 +1,15 @@
+decoded.txt
+decoded.pdf
+sampleFile.pdf
+randomFile.txt
+file.avi
+
+#build
+build/
+
+
+#intellij
+.idea/
+
+#anonymous
+.gradle/
